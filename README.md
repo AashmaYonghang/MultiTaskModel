@@ -8,4 +8,4 @@ Thus generated images train the convolution neural network model (using keras fu
 
 The trained model has the 100% accuracy for color and 98% accuracy digit accuracy for validation dataset and 97% digita accuracy for training dataset.
 
-![](image.png)
+![](./image.png)
